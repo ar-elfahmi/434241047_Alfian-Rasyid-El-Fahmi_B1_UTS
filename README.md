@@ -56,7 +56,6 @@ Semua provider bergantung ke interface repository, sehingga migrasi backend ke S
 - lib/app.dart
 - lib/core/
 - lib/features/
-- AGENT.md
 
 ## Catatan
 
